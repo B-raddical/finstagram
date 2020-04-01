@@ -1,0 +1,33 @@
+header{
+    background-color: #003f52;
+    color: #E8FDFF;
+}
+
+body{
+    background-color: rgb(218, 218, 218);
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+main {background-color: rgb(228, 228, 228);
+}
+
+main{
+    background-color: rgb(255, 255, 255)
+    padding: 14px;
+}
+
+.finstagram-post{
+    margin-bottom: 48px;
+}
+
+.finstagram-post .user-info img{
+    border-radius: 50%;
+}
+
+a.photo{
+    transition: padding 0.8s;
+    }
+
+a.photo:hover{
+    padding: 30px;
+}
